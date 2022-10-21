@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(3, 3, 76);
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+table {
+  width: 700px;
+  height: 150px;
+  box-sizing: border-box;
+  background-color: darkslategray;
+  border: 1px solid white;
+
+}
+
+ td, th {
+  vertical-align: middle;
+  border-bottom: 1px solid white;
+  color: white;
+  text-align: left;
+  padding-left: 30px;
+
+}
+
+.file, .date, .mins, .jyne {
+padding-left: 120px;
+
+
+
+}
+
+.point {
+
+  text-align: right;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+th {
+   color: white;
+   font-weight: 800;
+   font-size: 16px;
+
+}
+
+
+
+td {
+
+  color: rgb(185, 181, 181);
+ 
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 9px solid rgb(237, 234, 234);
+    display: inline-block
+}
