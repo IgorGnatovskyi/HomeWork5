@@ -59,3 +59,22 @@ td {
     border-top: 9px solid rgb(237, 234, 234);
     display: inline-block
 }
+
+.button {
+  width: 10px;
+  height: 15px;
+  padding: 7px; 
+  border-radius: 6px;
+  background: rgb(165, 184, 197);
+}
+
+.search {
+    width: 120px;
+    height: 18px;
+   
+    border: none;
+    
+    background: no-repeat;
+    background-image: url(./img/search2.png);
+    background-position: 10px;
+}
